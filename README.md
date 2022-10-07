@@ -8,8 +8,8 @@
 5) Exploratory Data Analysis
 6) Evaluation of Machine Learning models
 
-### 1. Software used
-<img src="" alt="drawing" width="600"/>
+### 1. Tools used
+<img src="https://github.com/hamzahasan13/Airline-Passenger-Dissatisfaction-Analysis/blob/main/Images/Python-logo.png" alt="drawing" width="600"/>
 
 ### 2. Overview
 This project contains Exploratory Data Analysis (EDA) and evaluation metrics for different Machine Learning models in python.
