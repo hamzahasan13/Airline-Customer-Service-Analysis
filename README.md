@@ -5,11 +5,12 @@
 2) Overview
 3) Goal
 4) Technical Aspect
-5) Exploratory Data Analysis
-6) Evaluation of Machine Learning models
+5) Data Flow
+6) Exploratory Data Analysis results
+7) Evaluation of Machine Learning models
 
 ### 1. Tools used
-<img src="https://github.com/hamzahasan13/Airline-Passenger-Dissatisfaction-Analysis/blob/main/Images/Python-logo.png" alt="drawing" width="300"/>
+<img src="https://github.com/hamzahasan13/Airline-Passenger-Dissatisfaction-Analysis/blob/main/Images/Python-logo.png" alt="drawing" width="200"/>
 
 ### 2. Overview
 This project contains Exploratory Data Analysis (EDA) and evaluation metrics for different Machine Learning models in python.
@@ -24,3 +25,30 @@ The data analysis for this project was dividied into:
 * Machine Learning
 * Report writing/Presentation
 
+### 5. Data Flow
+<img src="https://github.com/hamzahasan13/Airline-Passenger-Dissatisfaction-Analysis/blob/main/Images/FlowChart.JPG" alt="drawing" width="500"/>
+
+### 6. Exploratory Data Analysis results
+
+<img src="https://github.com/hamzahasan13/Airline-Passenger-Dissatisfaction-Analysis/blob/main/Images/heatmap.JPG" alt="drawing" width="600"/>
+
+<img src="https://github.com/hamzahasan13/Airline-Passenger-Dissatisfaction-Analysis/blob/main/Images/satisfaction_dissatisfaction.JPG" alt="drawing" width="600"/>
+
+<img src="https://github.com/hamzahasan13/Airline-Passenger-Dissatisfaction-Analysis/blob/main/Images/age_split.JPG" alt="drawing" width="600"/>
+
+<img src="https://github.com/hamzahasan13/Airline-Passenger-Dissatisfaction-Analysis/blob/main/Images/wifi_service_survey_results.JPG" width="600"/>
+
+<img src="https://github.com/hamzahasan13/Airline-Passenger-Dissatisfaction-Analysis/blob/main/Images/online_booking_survey_results.JPG" width="600"/>
+
+<img src="https://github.com/hamzahasan13/Airline-Passenger-Dissatisfaction-Analysis/blob/main/Images/online_boarding_survey_results.JPG" width="600"/>
+
+### 7. Evaluation of Machine Learning Models
+
+### * Random Forest result
+<img src="https://github.com/hamzahasan13/Airline-Passenger-Dissatisfaction-Analysis/blob/main/Images/RF_results.JPG" width="600"/>
+
+### * K Nearest Neighbors result
+<img src="https://github.com/hamzahasan13/Airline-Passenger-Dissatisfaction-Analysis/blob/main/Images/KNN_result.JPG" width="600"/>
+
+#### Conclusion
+Random Forest algorithm had the highest accuracy (0.94) compared to KNN's (0.83).
