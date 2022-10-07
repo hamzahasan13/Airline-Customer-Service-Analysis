@@ -11,6 +11,7 @@
 
 ### 1. Tools used
 <img src="https://github.com/hamzahasan13/Airline-Passenger-Dissatisfaction-Analysis/blob/main/Images/Python-logo.png" alt="drawing" width="200"/>
+<img src="https://github.com/hamzahasan13/Airline-Passenger-Dissatisfaction-Analysis/blob/main/Images/jupyter_nb.png" alt="drawing" width="200"/>
 
 ### 2. Overview
 This project contains Exploratory Data Analysis (EDA) and evaluation metrics for different Machine Learning models in python.
