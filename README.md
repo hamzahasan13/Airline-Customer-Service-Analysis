@@ -8,6 +8,7 @@
 5) Data Flow
 6) Exploratory Data Analysis results
 7) Evaluation of Machine Learning models
+8) Conclusion/Discussion
 
 ### 1. Tools used
 <img src="https://github.com/hamzahasan13/Airline-Passenger-Dissatisfaction-Analysis/blob/main/Images/Python-logo.png" alt="drawing" width="200"/>
@@ -51,5 +52,8 @@ The data analysis for this project was dividied into:
 ### * K Nearest Neighbors result
 <img src="https://github.com/hamzahasan13/Airline-Passenger-Dissatisfaction-Analysis/blob/main/Images/KNN_result.JPG" width="600"/>
 
-#### Conclusion
-Random Forest algorithm had the highest accuracy (0.94) compared to KNN's (0.83).
+### 8) Conclusion/Discussion
+* Random Forest algorithm had the highest accuracy (0.94) compared to KNN's (0.83).
+* Majority of the customers (56.7%) were dissatisfied with the services provided by the airline.
+* Adults were the most frequent users.
+* Inflight wifi service, Ease of online booking, and online boarding were some of the factors that passengers rated with lower ratings.
