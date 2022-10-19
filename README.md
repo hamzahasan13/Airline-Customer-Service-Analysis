@@ -55,5 +55,5 @@ The data analysis for this project was dividied into:
 ### 8) Conclusion/Discussion
 * Random Forest algorithm had the highest accuracy (0.94) compared to KNN's (0.83).
 * Majority of the customers (56.7%) were dissatisfied with the services provided by the airline.
-* Adults were the most frequent users.
-* Inflight wifi service, Ease of online booking, and online boarding were some of the factors that passengers rated with lower ratings.
+* Adults were the most frequent users with more than 60000 count.
+* Inflight wifi service, Ease of online booking, and online boarding were some of the factors that passengers rated with lower ratings 3 or below on a scale of 1 to 5 with 5 being the strongly liked.
