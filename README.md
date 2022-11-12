@@ -1,4 +1,4 @@
-# Airline-Passanger-Satisfaction-Analysis
+# Airline-Customer-Service-Analysis
 
 ## Table of Contents
 1) Tools used
